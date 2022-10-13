@@ -14,7 +14,7 @@ import Alert from './components/Alert';
 // } from "react-router-dom";
 
 
-function App() {
+function App(){
   const [mode, setMode] = useState('light')
   const [alert, setAlert] = useState(null)
 
